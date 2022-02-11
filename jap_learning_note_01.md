@@ -21,9 +21,17 @@
 - $\text{口說無法進步的原因}$
     - $\text{發音太不精準}$
     - $\text{使用頻率太低}$
+
+
 ----
 
 ## Reference
-- 音速老師的日語成功筆記：發音會話篇；朱育賢 著；臺中市 晨星出版 臺北市 知己圖書總經銷, 2018；初版  
+- $\text{音速老師的日語成功筆記：發音會話篇；朱育賢 著；臺中市 晨星出版 臺北市 知己圖書總經銷, 2018；初版}$  
   <https://metadata.ncl.edu.tw/blstkmc/blstkm?!!NOMA020754342>
 
+----
+# 草稿區
+- <ruby><rb>陳</rb><rt>ㄔㄣˊ</rt><rb>家</rb><rt>ㄐㄧㄚ</rt><rb>耀</rb><rt>ㄧㄠˋ</rt></ruby>
+- $\overset{\tiny \text{ㄔㄣˊ}}{\text{陳}}\overset{\tiny \text{ㄐㄧㄚ}}{\text{家}}\overset{\tiny \text{ㄧㄠˋ}}{\text{耀}}$
+- $\textstyle{\overset{\text{ㄔㄣˊ}}{\text{陳}}}$
+- $\displaystyle{\overset{\text{ㄔㄣˊ}}{\text{陳}}}$
