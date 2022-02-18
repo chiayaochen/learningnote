@@ -55,7 +55,86 @@
     - $\text{し} \ne \text{shi．si．C}$
     - $\text{ふ} \ne \text{fu．hu．夫}$
     - $\text{す} \ne \text{su．思．酥}$
-- $\text{這裡待續...}$
+- $\text{中文沒有濁音}$
+    - $\text{ㄅㄉㄍ應分類在無氣清音而不是濁音}$
+- $\text{母音無聲化的獨特現象}$
+    - $\text{某些母音為 i 或 u 的字 聲帶不振動 只發出氣音}$
+- $\text{重音}$
+    - $\text{重音位置不同 可能代表不同意思}$
+- $\text{每個字符發音要簡短清晰 不要黏在一起}$
+- $\text{整句話需避免聲音沉悶 缺少起伏}$
+## 解決上述問題的小技巧
+- $\text{し}\vert\text{ふ}\vert\text{す}\text{要多練習}$
+    - $\text{し} \to \text{音近中文的西}$
+    - $\text{ふ} \to \text{音近中文的夫 但上排牙齒不可以碰到下排嘴唇}$
+    - $\text{す} \to \text{音近中文的思 但嘴巴要嘟起}$
+- $\text{日文較多使用鼻腔共鳴來發聲 而非喉嚨}$
+- $\text{刻意做好長音與促音}$
+    - $\text{混淆實例}$
+        - $\overset{\tiny{き}}{\text{来}}\text{てください}$
+        - $\overset{\tiny{き}}{\text{切}}\text{ってください}$
+        - $\overset{\tiny{き}}{\text{聞}}\text{いてください}$
+- $\text{利用台語來理解}$
+    - $\text{混淆實例}$
+        - $\text{中文的巴是無氣清音} \ne \text{台語的肉是濁音}$
+        - $\text{中文的姑是無氣清音} \ne \text{台語的牛是濁音}$
+    - $\text{然而台語沒有}\text{だ}\vert\text{で}\vert\text{ど}\text{ 要多練習}$
+- $\text{利用無意義的緩衝句博取思考時間}$
+    - $\text{常見的緩衝句}$
+        - $\text{えっと……}$
+        - $\text{そうですね……}$
+        - $\text{それは……}$
+        - $\text{まあ、それはそうですが……}$
+        - $\text{うん……}$
+        - $\text{それは確かに……}$
+        - $\text{あの……}$
+        - $\text{ええ、まあ……}$
+- $\text{要克服心理障礙錄自己的聲音來聽}$
+    - $\text{請日本朋友糾正發音 但可能沒朋友}$
+    - $\text{放臉書學習社團請網友糾正發音 但可能遇到酸民}$
+    - $\text{把 Siri 設定為日文 說給 Siri 聽}$
+## 其他會話訓練的小技巧
+- $\text{自言自語}$
+- $\text{腦中預演}$
+- $\text{聽自己的日語錄音日記}$
+    - $\text{可以事先寫下相同句型的日記格式 再填入不同單字即可 每日重複練習}$
+- $\text{優先使用最簡單最常見的字彙與句型}$
+- $\text{充分利用有聲教材}$
+    - $\text{有聲書可活用零碎時間}$
+    - $\text{東京大學的開放式課程}$
+    - $\text{Podcast 例如 新刊ラジオ}$
+    - $\text{日文新聞網站}$
+        - $\text{NHK News Web}$  
+          <https://www3.nhk.or.jp/news/>
+        - $\text{NHK News Web Easy}$  
+          <https://www3.nhk.or.jp/news/easy/>
+        - $\text{日テレ NEWS24}$  
+          <https://news.ntv.co.jp/>
+        - $\text{FNN}$  
+          <https://www.fnn.jp/>
+        - $\text{テレ朝 news}$  
+          <https://news.tv-asahi.co.jp/>
+        - $\text{まぐまぐ 電子報}$  
+          <https://www.mag2.co.jp/>
+- $\text{把影片字幕關掉再看一次}$
+    - $\text{專心看日劇說話者的嘴型}$
+    - $\text{體會所使用的句子的情境}$
+- $\text{幫助漢字學習的工具}$
+    - $\text{自動把網頁的漢字標上假名 ひらひらのひらがなめがね}$  
+      <https://hiragana.jp/>
+    - $\text{goo 国語辞書}$  
+      <https://dictionary.goo.ne.jp/jn/>
+    - $\text{Weblio 国語辞典}$  
+      <https://www.weblio.jp/>
+- $\text{其他線上學習教材}$
+    - $\text{東京外国語大学言語モジュール}$  
+      <http://www.coelang.tufs.ac.jp/mt/>
+    - $\text{小学生・中学生のためのアイデアノート}$  
+      <http://www.heu-le.net/yomi3/kids/index.html>
+    - $\text{オンライン 日本語 テスト}$  
+      <https://test.u-biq.org/japanese.html>
+    - $\text{アニメ・マンガの日本語}$  
+      <https://anime-manga.jp/en/>
 
 ----
 
