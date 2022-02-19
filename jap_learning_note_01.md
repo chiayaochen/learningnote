@@ -135,7 +135,75 @@
       <https://test.u-biq.org/japanese.html>
     - $\text{アニメ・マンガの日本語}$  
       <https://anime-manga.jp/en/>
-
+    - $\text{Web CMJ}\left( \text{這個網頁無法開啟} \right)$  
+    - $\text{發音訓練 つたえる はつおん}$  
+      <https://www.japanese-pronunciation.com/>
+    - $\text{可查詢字彙重音 日本語教育用 アクセント辞典}$  
+      <https://accent.u-biq.org/>
+    - $\text{日語腔調訓練 東京語のアクセント}$  
+      <http://nihongo.hum.tmu.ac.jp/mic-j/accent/index.html>
+    - $\text{現代日本語コース中級 聴解}\left( \text{這個網頁無法開啟} \right)$  
+    - $\text{幼児の学習素材館 這裡有很多學習資源}$  
+      <https://happylilac.net/hiragana-h.html>
+    - $\text{擬音語って？擬態語って？}$  
+      <https://www2.ninjal.ac.jp/Onomatope/>
+    - $\text{漢字園}\left( \text{這個網頁無法開啟} \right)$  
+    - $\text{漢字の正しい書き順 可以學習筆順}$  
+      <https://kakijun.jp/>
+    - $\text{学習者向けの日本語クイズ 自動詞與他動詞的學習}$  
+      <https://yuko-nakaishi.net/quiz/index.html>
+    - $\text{経済のにほんご 學習商業經濟用語}$  
+      <https://keizai-nihongo.com/>
+    - $\text{基本動詞ハンドブック}$  
+      <https://verbhandbook.ninjal.ac.jp/>
+    - $\text{リーディング チュウ太 日文閱讀技能輔助工具}$  
+      <https://chuta.cegloc.tsukuba.ac.jp/>
+    - $\text{青空文庫 Aozora Bunko 網路圖書館有許多作品可以看}$  
+      <https://www.aozora.gr.jp/>
+    - $\text{福娘童話集 世界と日本の童話・昔話集 內容很多元 甚至還有打字練習}$  
+      <http://hukumusume.com/douwa/>
+    - $\text{キッズ外務省トップページ 各國資訊日本兒童版}$  
+      <https://www.mofa.go.jp/mofaj/kids/index.html>
+    - $\text{日本語能力試験 JLPT 官方網站}$  
+      <https://www.jlpt.jp/>
+    - $\text{みんなで聞こう 日本の歌}\left( \text{這個網頁無法開啟} \right)$  
+    - $\text{ひろがる 日本語学習ウェブサイト 日本生活文化介紹}$  
+      <https://hirogaru-nihongo.jp/>
+    - $\text{STUDY IN JAPAN Basic Guide}$  
+      <https://www.studyinjapan.go.jp/en/other/sgtj/>
+## 非語言的溝通差異
+- $\text{表情}$
+    - $\text{注重面帶笑容}$
+    - $\text{表情不耐煩是會被客訴的}$
+- $\text{視線}$
+    - $\text{對話需避免眼神直接接觸}$
+    - $\text{習慣看著領口高度}$
+    - $\text{遭到主管斥責 眼神需低頭看著地面 表示反省}$
+- $\text{肢體}$
+    - $\text{簡單道謝}\ \text{ありがと}\ \text{點頭或鞠躬15度}$
+    - $\text{一般道謝}\ \text{ありがとうございます}\ \text{鞠躬30度}$
+    - $\text{鄭重道謝}\ \overset{\tiny\text{まこと}}{\text{誠}}\ \text{にありがとうございます}\ \text{鞠躬45到90度}$
+    - $\text{小事道歉}\ \text{すみません}\ \text{鞠躬15度}$
+    - $\text{普通道歉}\ \overset{\tiny\text{もうしわけ}}{\text{申し訳}}\ \text{ありません}\ \text{鞠躬30度}$
+    - $\text{鄭重道歉}\ \overset{\tiny\text{もうしわけ}}{\text{申し訳}}\ \text{ございません}\ \text{鞠躬90度}$
+    - $\text{遞名片要用雙手且將文字轉向對方可以看懂的方向 不可以單手}$
+    - $\text{接名片要用雙手 也不可以收到就放口袋 要先注視名片並唸出對方姓名}$
+    - $\text{遞名片或握手時 地位較低的須主動先出手}$
+    - $\text{在公司遇到同事或主管的打招呼方式是略點頭並說}\ \text{お}\overset{\tiny\text{つかれ}}{\text{疲れ}}\overset{\tiny\text{さま}}{\text{様}}\text{です}$
+- $\text{手勢}$
+    - $\text{例如六七八的比法 是把右手比一二三的手指放到左手掌心}$
+- $\text{服裝}$
+    - $\text{工作場合常穿西裝 以表示對工作的尊重}$
+- $\text{與對方的距離}$
+    - $\text{習慣間隔較遠 注重對方的空間與隱私}$
+- $\text{駕駛}$
+    - $\text{優先禮讓行人}$
+- $\text{攝影}$
+    - $\text{未經許可 絕對不能對著他人拍照}$
+- $\text{電話}$
+    - $\text{打給客戶時 通話結束 等三秒才把電話掛斷}$
+- $\text{排隊}$
+    - $\text{即使廁所有三間 只會排成一排 依序遞補}$
 ----
 
 ## Reference
@@ -143,8 +211,3 @@
   <https://metadata.ncl.edu.tw/blstkmc/blstkm?!!NOMA020754342>
 
 ----
-# 草稿區
-- <ruby><rb>陳</rb><rt>ㄔㄣˊ</rt><rb>家</rb><rt>ㄐㄧㄚ</rt><rb>耀</rb><rt>ㄧㄠˋ</rt></ruby>
-- $\overset{\tiny \text{ㄔㄣˊ}}{\text{陳}}\overset{\tiny \text{ㄐㄧㄚ}}{\text{家}}\overset{\tiny \text{ㄧㄠˋ}}{\text{耀}}$
-- $\textstyle{\overset{\text{ㄔㄣˊ}}{\text{陳}}}$
-- $\displaystyle{\overset{\text{ㄔㄣˊ}}{\text{陳}}}$
