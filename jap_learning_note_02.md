@@ -60,206 +60,64 @@
     - $\text{高級的考試可能會考 例如日文檢定N1}$
     - $\text{公開正式場合顯得莊重有內涵}$
     - $\text{想進行學術研究}$
-----
-----
+## 文法的學習技巧
+- $\text{記住整個例句 而不是只有片段}$
+    - $\text{直接記整個例子}\to\text{はじめまして、私は}\bigcirc\text{です。よろしくお}\overset{\tiny\text{ねが}}{願}\text{いします。}$  
+      $\text{而不是分別記下}\to\text{はじめまして}\vert\text{よろしく}$
+    - $\text{直接記整個例子}\to$  
+      $\text{私は}\overset{\tiny\text{がくせい}}{学生}\text{です。私は}\overset{\tiny\text{せんせい}}{先生}\text{ではありません。}$  
+      $\overset{\tiny\text{としょかん}}{図書館}\text{は}\overset{\tiny\text{しずか}}{静か}\text{です。}\rightleftarrows\overset{\tiny\text{としょかん}}{図書館}\text{は}\overset{\tiny\text{しずか}}{静か}\text{ではありません。}$  
+      $\text{而不是分別記下}\to\text{です}=\text{肯定}\vert\text{ではありません}=\text{否定}$
+    - $\text{這樣做的好處是}$
+        - $\text{縮短會話時的反應時間}$
+        - $\text{常用句型會因為使用頻率提高而容易記住}$
+        - $\text{減少緊張時的文法錯誤}$
+        - $\text{較容易記住新的單字}$
+- $\text{儘快讓自己嘗試開口講日文}$
+    - $\text{除了正統教材的基礎文法}$  
+      $\text{故意多記一些常用的會話 並且於日常使用出來 例如}$
+        - $\text{それはそうですね。}$
+        - $\text{なるほど。}$
+        - $\text{それはちょっと……}$
+        - $\overset{しつれい}{失礼}\text{します。}$
+        - $\overset{にほんご}{日本語}\text{はあまりできません。}$
+    - $\text{常用語句在未來的正統教材學到時}$  
+      $\text{頓悟感會讓學習印象更深刻}$
+- $\text{練習文法句型時 創造與自己經驗有關的句子 記憶才深刻}$  
+    - $\text{記憶}=\text{感受的強度}\times\text{次數}$  
+    - $\text{加強感受強度可以是 好笑的 有興趣的 種種難忘的經驗}$  
+- $\text{善用 圖 與 表 作筆記可加速理解}$  
+- $\text{善用 加法概念 來理解 複雜的文法 例如}$  
+    $\begin{array}{ccccc}\text{複雜文法}&=&\text{基本文法}&+&\text{附帶要素}\vert\text{附帶條件}\\\hline\text{わたくし}&=&\text{わたし}&+&\text{正式}\\\text{あんた}&=&\text{あなた}&+&\text{口語}\\\text{でございます}&=&\text{です}&+&\text{謙虛}\\\text{でいらっしゃいます}&=&\text{です}&+&\text{尊敬}\\\hline\text{ください}&=&\text{くれますか}&+&\text{較不客氣}\\\text{もらえますか}&=&\text{くれますか}&+&\text{禮貌}\\\hline\text{すなわち}&=&\text{つまり}&+&\text{文章用法}\\\text{ならでは}&=&\text{だけ}&+&\text{文章用法}\\\text{たりども}&=&\text{でも}&+&\text{文章用法}\\\text{かねない}&=&\text{かもしれない}&+&\text{正式用法}\\\end{array}$  
+- $\text{文字習慣}$  
+    - $\text{平假名}\to\text{可能給人幼稚的感覺}$  
+    - $\text{漢字}\to\text{正式但有時過於僵硬或過度傳統}$  
+    - $\text{片假名}\to\text{新潮}\vert\text{故意強調}\vert\text{漢字太複雜}\vert\text{外來語}\vert\text{狀聲詞}$  
+- $\text{語言是活的 會不斷演進 主要的學習教材應以生活現實情況為主}$  
+    - $\text{許多網路上的多媒體節目 反而更貼近現代的日本人}$  
+## 字彙的學習技巧
+- $\text{不要只背單字 以同一個句型 替換相關單字幫助記憶}$  
+  $\left.\begin{array}{c}\overset{\tiny\text{うち}}{家}\\\overset{\tiny\text{じっか}}{実家}\\\overset{\tiny\text{ふるさと}}{故郷}\\\overset{\tiny\text{くに}}{国}\\\overset{\tiny\text{いなか}}{田舎}\end{array}\right\}\text{に　}\overset{\tiny\text{かえり}}{帰り}\text{ます。}$  
+  $\left.\begin{array}{c}\text{チェックイン}\\\text{サラダ}\\\text{この}\overset{\tiny\text{ふく}}{\text{服}}\\\overset{\tiny\text{めんぜい}}{\text{免税}}\text{の}\overset{\tiny\text{てつづき}}{\text{手続き}}\end{array}\right\}\text{をお願いします。}$
+- $\text{不要花時間在背單字 而是花時間在用單字}$  
+    - $\text{不要用背的 時間用在寫日記 寫網誌 寫臉書 都可以}$  
+- $\text{常用的字一定會記起來 不常用的字記再多也沒用}$  
+- $\text{多多朗誦模仿喜歡的句子}$  
+    - $\text{可以是喜歡的歌曲 台詞 對白 名言...}$  
+- $\text{不必什麼領域的單字都學 先學特定領域會用到的優先}$  
+    - $\text{例如 自我介紹 公司產品 公司特色}$  
+    - $\text{或者是 動畫台詞 電玩雜誌}$  
+    - $\text{或者是 旅遊會話 餐飲食物}$  
+    - $\text{或者是 資訊科技 設備操作}$  
+- $\text{遇到不懂的單字}$  
+    - $\text{太冷僻的直接跳過不要背}$  
+    - $\text{查完意義 查重音}$  
+    - $\text{例句大聲唸出來 要唸到很快很熟}$  
+    - $\text{然後才是重複用手寫與電腦打出來}$  
+- $\text{不要買純單字書}$  
+    - $\text{務必是整句的例句 句型連帶單字一起唸出來}$  
+    - $\text{只背單字要注意是不是自己發明出不自然的日文}$  
 
-
-# 日文學習筆記
-## 聽說讀寫
-- $\text{學習順序}$
-    - $\text{幼兒}\colon \ \text{聽}\to\text{說}\to\text{讀}\to\text{寫}$
-    - $\text{成人}\colon \ \text{讀}\to\text{寫}\to\text{聽}\to\text{說}$
-- $\text{學習優勢}$
-    - $\text{幼兒擅長記憶}\colon \ \text{習慣} + \text{環境}$
-    - $\text{成人擅長理解}\colon \ \text{興趣} + \text{教材}$
-- $\text{困難程度}$
-    - $\text{會話} > \text{寫作} > \text{聆聽} > \text{閱讀}$  
-      $\implies \text{加強口說} \to \text{其他能力也會進步}$
-## 學習方式
-- $\left[ \text{讀} \vert \text{聽} \right] \to \text{理解} \to \left[ \text{寫} \vert \text{說} \right] \to \text{熟練}$
-    - $\text{閱讀聆聽自己感興趣的材料}$
-    - $\text{理解簡單常見的文法與單字}$
-    - $\text{多寫多說自己剛學的新知識}$
-    - $\text{直到不假思索並且養成習慣}$
-- $\text{規則之外} \vert \text{慣用語句}$
-    - $\left[ \text{讀} \vert \text{聽} \right] \to \left[ \text{寫} \vert \text{說} \right] \to \text{熟練}$
-## 發音的重要性
-- $\text{口說無法進步的原因}$
-    - $\text{發音太不精準}$
-    - $\text{使用頻率太低}$
-## 常見的發音問題
-- $\text{長音記得多一拍}$
-    - $\text{基本的長音規則}$
-        - $\text{ああ} \vert \text{かあ} \vert \text{さあ} \vert \text{たあ} \vert \text{なあ} \vert \text{はあ} \vert \text{まあ} \vert \text{やあ} \vert \text{らあ} \vert \text{わあ}$
-            - $\text{舉例} \colon \text{おかあさん}$
-        - $\text{いい} \vert \text{きい} \vert \text{しい} \vert \text{ちい} \vert \text{にい} \vert \text{ひい} \vert \text{みい} \vert \text{りい}$
-            - $\text{舉例} \colon \text{いいです．きいて．しいたけ．ちいさい．にいさん}$
-        - $\text{うう} \vert \text{くう} \vert \text{すう} \vert \text{つう} \vert \text{ぬう} \vert \text{ふう} \vert \text{むう} \vert \text{ゆう}$
-            - $\text{舉例} \colon \text{くうき．すうがく．つうしん．ふうせん．ゆうき}$
-        - $\text{えい} \vert \text{けい} \vert \text{せい} \vert \text{てい} \vert \text{ねい} \vert \text{へい} \vert \text{めい} \vert \text{れい}$
-            - $\text{舉例} \colon \text{けいさん．せいかい．ていねい．へいや．めいれい}$
-        - $\text{おう} \vert \text{こう} \vert \text{そう} \vert \text{とう} \vert \text{のう} \vert \text{ほう} \vert \text{もう} \vert \text{よう} \vert \text{ろう}$
-            - $\text{舉例} \colon \text{おうぎ．こうふく．そうごう．さとう．のうさく}$
-    - $\text{混淆實例}$
-        - $\overset{\tiny \text{ゆうき}}{\text{勇気}} \ne \overset{\tiny \text{ゆき}}{\text{雪}}$
-        - $\overset{\tiny \text{せいかい}}{\text{正解}} \ne \overset{\tiny \text{せかい}}{\text{世界}}$
-- $\text{促音記得停一拍}$
-    - $\text{混淆實例}$
-        - $\overset{\tiny \text{きって}}{\text{切って}} \ne \overset{\tiny \text{きて}}{\text{来て}}$
-        - $\overset{\tiny \text{にっし}}{\text{日誌}} \ne \overset{\tiny \text{にし}}{\text{西}}$
-- $\text{し}\vert\text{ふ}\vert\text{す}\text{較難唸得精準}$
-    - $\text{し} \ne \text{shi．si．C}$
-    - $\text{ふ} \ne \text{fu．hu．夫}$
-    - $\text{す} \ne \text{su．思．酥}$
-- $\text{中文沒有濁音}$
-    - $\text{ㄅㄉㄍ應分類在無氣清音而不是濁音}$
-- $\text{母音無聲化的獨特現象}$
-    - $\text{某些母音為 i 或 u 的字 聲帶不振動 只發出氣音}$
-- $\text{重音}$
-    - $\text{重音位置不同 可能代表不同意思}$
-- $\text{每個字符發音要簡短清晰 不要黏在一起}$
-- $\text{整句話需避免聲音沉悶 缺少起伏}$
-## 解決上述問題的小技巧
-- $\text{し}\vert\text{ふ}\vert\text{す}\text{要多練習}$
-    - $\text{し} \to \text{音近中文的西}$
-    - $\text{ふ} \to \text{音近中文的夫 但上排牙齒不可以碰到下排嘴唇}$
-    - $\text{す} \to \text{音近中文的思 但嘴巴要嘟起}$
-- $\text{日文較多使用鼻腔共鳴來發聲 而非喉嚨}$
-- $\text{刻意做好長音與促音}$
-    - $\text{混淆實例}$
-        - $\overset{\tiny{き}}{\text{来}}\text{てください}$
-        - $\overset{\tiny{き}}{\text{切}}\text{ってください}$
-        - $\overset{\tiny{き}}{\text{聞}}\text{いてください}$
-- $\text{利用台語來理解}$
-    - $\text{混淆實例}$
-        - $\text{中文的巴是無氣清音} \ne \text{台語的肉是濁音}$
-        - $\text{中文的姑是無氣清音} \ne \text{台語的牛是濁音}$
-    - $\text{然而台語沒有}\text{だ}\vert\text{で}\vert\text{ど}\text{ 要多練習}$
-- $\text{利用無意義的緩衝句博取思考時間}$
-    - $\text{常見的緩衝句}$
-        - $\text{えっと……}$
-        - $\text{そうですね……}$
-        - $\text{それは……}$
-        - $\text{まあ、それはそうですが……}$
-        - $\text{うん……}$
-        - $\text{それは確かに……}$
-        - $\text{あの……}$
-        - $\text{ええ、まあ……}$
-- $\text{要克服心理障礙錄自己的聲音來聽}$
-    - $\text{請日本朋友糾正發音 但可能沒朋友}$
-    - $\text{放臉書學習社團請網友糾正發音 但可能遇到酸民}$
-    - $\text{把 Siri 設定為日文 說給 Siri 聽}$
-## 其他會話訓練的小技巧
-- $\text{自言自語}$
-- $\text{腦中預演}$
-- $\text{聽自己的日語錄音日記}$
-    - $\text{可以事先寫下相同句型的日記格式 再填入不同單字即可 每日重複練習}$
-- $\text{優先使用最簡單最常見的字彙與句型}$
-- $\text{充分利用有聲教材}$
-    - $\text{有聲書可活用零碎時間}$
-    - $\text{東京大學的開放式課程}$
-    - $\text{Podcast 例如 新刊ラジオ}$
-    - $\text{日文新聞網站}$
-        - $\text{NHK News Web}$  
-          <https://www3.nhk.or.jp/news/>
-        - $\text{NHK News Web Easy}$  
-          <https://www3.nhk.or.jp/news/easy/>
-        - $\text{日テレ NEWS24}$  
-          <https://news.ntv.co.jp/>
-        - $\text{FNN}$  
-          <https://www.fnn.jp/>
-        - $\text{テレ朝 news}$  
-          <https://news.tv-asahi.co.jp/>
-        - $\text{まぐまぐ 電子報}$  
-          <https://www.mag2.co.jp/>
-- $\text{把影片字幕關掉再看一次}$
-    - $\text{專心看日劇說話者的嘴型}$
-    - $\text{體會所使用的句子的情境}$
-- $\text{幫助漢字學習的工具}$
-    - $\text{自動把網頁的漢字標上假名 ひらひらのひらがなめがね}$  
-      <https://hiragana.jp/>
-    - $\text{goo 国語辞書}$  
-      <https://dictionary.goo.ne.jp/jn/>
-    - $\text{Weblio 国語辞典}$  
-      <https://www.weblio.jp/>
-- $\text{其他線上學習教材}$
-    - $\text{東京外国語大学言語モジュール}$  
-      <http://www.coelang.tufs.ac.jp/mt/>
-    - $\text{小学生・中学生のためのアイデアノート}$  
-      <http://www.heu-le.net/yomi3/kids/index.html>
-    - $\text{オンライン 日本語 テスト}$  
-      <https://test.u-biq.org/japanese.html>
-    - $\text{アニメ・マンガの日本語}$  
-      <https://anime-manga.jp/en/>
-    - $\text{Web CMJ}\left( \text{這個網頁無法開啟} \right)$  
-    - $\text{發音訓練 つたえる はつおん}$  
-      <https://www.japanese-pronunciation.com/>
-    - $\text{可查詢字彙重音 日本語教育用 アクセント辞典}$  
-      <https://accent.u-biq.org/>
-    - $\text{日語腔調訓練 東京語のアクセント}$  
-      <http://nihongo.hum.tmu.ac.jp/mic-j/accent/index.html>
-    - $\text{現代日本語コース中級 聴解}\left( \text{這個網頁無法開啟} \right)$  
-    - $\text{幼児の学習素材館 這裡有很多學習資源}$  
-      <https://happylilac.net/hiragana-h.html>
-    - $\text{擬音語って？擬態語って？}$  
-      <https://www2.ninjal.ac.jp/Onomatope/>
-    - $\text{漢字園}\left( \text{這個網頁無法開啟} \right)$  
-    - $\text{漢字の正しい書き順 可以學習筆順}$  
-      <https://kakijun.jp/>
-    - $\text{学習者向けの日本語クイズ 自動詞與他動詞的學習}$  
-      <https://yuko-nakaishi.net/quiz/index.html>
-    - $\text{経済のにほんご 學習商業經濟用語}$  
-      <https://keizai-nihongo.com/>
-    - $\text{基本動詞ハンドブック}$  
-      <https://verbhandbook.ninjal.ac.jp/>
-    - $\text{リーディング チュウ太 日文閱讀技能輔助工具}$  
-      <https://chuta.cegloc.tsukuba.ac.jp/>
-    - $\text{青空文庫 Aozora Bunko 網路圖書館有許多作品可以看}$  
-      <https://www.aozora.gr.jp/>
-    - $\text{福娘童話集 世界と日本の童話・昔話集 內容很多元 甚至還有打字練習}$  
-      <http://hukumusume.com/douwa/>
-    - $\text{キッズ外務省トップページ 各國資訊日本兒童版}$  
-      <https://www.mofa.go.jp/mofaj/kids/index.html>
-    - $\text{日本語能力試験 JLPT 官方網站}$  
-      <https://www.jlpt.jp/>
-    - $\text{みんなで聞こう 日本の歌}\left( \text{這個網頁無法開啟} \right)$  
-    - $\text{ひろがる 日本語学習ウェブサイト 日本生活文化介紹}$  
-      <https://hirogaru-nihongo.jp/>
-    - $\text{STUDY IN JAPAN Basic Guide}$  
-      <https://www.studyinjapan.go.jp/en/other/sgtj/>
-## 非語言的溝通差異
-- $\text{表情}$
-    - $\text{注重面帶笑容}$
-    - $\text{表情不耐煩是會被客訴的}$
-- $\text{視線}$
-    - $\text{對話需避免眼神直接接觸}$
-    - $\text{習慣看著領口高度}$
-    - $\text{遭到主管斥責 眼神需低頭看著地面 表示反省}$
-- $\text{肢體}$
-    - $\text{簡單道謝}\ \text{ありがと}\ \text{點頭或鞠躬15度}$
-    - $\text{一般道謝}\ \text{ありがとうございます}\ \text{鞠躬30度}$
-    - $\text{鄭重道謝}\ \overset{\tiny\text{まこと}}{\text{誠}}\ \text{にありがとうございます}\ \text{鞠躬45到90度}$
-    - $\text{小事道歉}\ \text{すみません}\ \text{鞠躬15度}$
-    - $\text{普通道歉}\ \overset{\tiny\text{もうしわけ}}{\text{申し訳}}\ \text{ありません}\ \text{鞠躬30度}$
-    - $\text{鄭重道歉}\ \overset{\tiny\text{もうしわけ}}{\text{申し訳}}\ \text{ございません}\ \text{鞠躬90度}$
-    - $\text{遞名片要用雙手且將文字轉向對方可以看懂的方向 不可以單手}$
-    - $\text{接名片要用雙手 也不可以收到就放口袋 要先注視名片並唸出對方姓名}$
-    - $\text{遞名片或握手時 地位較低的須主動先出手}$
-    - $\text{在公司遇到同事或主管的打招呼方式是略點頭並說}\ \text{お}\overset{\tiny\text{つかれ}}{\text{疲れ}}\overset{\tiny\text{さま}}{\text{様}}\text{です}$
-- $\text{手勢}$
-    - $\text{例如六七八的比法 是把右手比一二三的手指放到左手掌心}$
-- $\text{服裝}$
-    - $\text{工作場合常穿西裝 以表示對工作的尊重}$
-- $\text{與對方的距離}$
-    - $\text{習慣間隔較遠 注重對方的空間與隱私}$
-- $\text{駕駛}$
-    - $\text{優先禮讓行人}$
-- $\text{攝影}$
-    - $\text{未經許可 絕對不能對著他人拍照}$
-- $\text{電話}$
-    - $\text{打給客戶時 通話結束 等三秒才把電話掛斷}$
-- $\text{排隊}$
-    - $\text{即使廁所有三間 只會排成一排 依序遞補}$
 ----
 
 ## Reference
