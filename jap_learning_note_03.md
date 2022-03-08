@@ -73,6 +73,16 @@
   $\left\{\begin{array}{clcll}+&\text{ない}&=&\overset{\tiny\text{かえ}}{\text{帰}}{\color{green}{\text{ら}}}\text{ない}&\text{不回去}\\+&\text{たい}&=&\overset{\tiny\text{かえ}}{\text{帰}}{\color{green}{\text{り}}}\text{たい}&\text{想回去}\\+&\text{ようだ}&=&\overset{\tiny\text{かえ}}{\text{帰}}{\color{green}{\text{る}}}\text{ようだ}&\text{像回去}\\+&\text{る}&=&\overset{\tiny\text{かえ}}{\text{帰}}{\color{green}{\text{れ}}}\text{る}&\text{能回去}\\+&\text{う}&=&\overset{\tiny\text{かえ}}{\text{帰}}{\color{green}{\text{ろ}}}\text{う}&\text{回去吧}\\\end{array}\right.$
 - $\begin{array}{l}\overset{\tiny\text{の}}{\text{飲}}\text{む}\\\left(\text{喝}\right)\end{array}$  
   $\left\{\begin{array}{clcll}+&\text{ない}&=&\overset{\tiny\text{の}}{\text{飲}}{\color{green}{\text{ま}}}\text{ない}&\text{不喝}\\+&\text{たい}&=&\overset{\tiny\text{の}}{\text{飲}}{\color{green}{\text{み}}}\text{たい}&\text{想喝}\\+&\text{ようだ}&=&\overset{\tiny\text{の}}{\text{飲}}{\color{green}{\text{む}}}\text{ようだ}&\text{像喝}\\+&\text{る}&=&\overset{\tiny\text{の}}{\text{飲}}{\color{green}{\text{め}}}\text{る}&\text{能喝}\\+&\text{う}&=&\overset{\tiny\text{の}}{\text{飲}}{\color{green}{\text{も}}}\text{う}&\text{喝吧}\\\end{array}\right.$
+## 對話實例
+- $\begin{array}{ll}\text{A:}&\overset{\tiny\text{なかやま}}{\text{中山}}\text{さん}\text{、}\text{お}\overset{\tiny\text{さけ}}{\text{酒}}\text{を}{\color{blue}{\overset{\tiny\text{の}}{\text{飲}}\text{まない}}}{\color{green}{\text{か}}}\text{？}\\&\left(\text{不喝點酒嗎？}\right)\\\end{array}$  
+  $\begin{array}{ll}\text{B:}&\overset{\tiny\text{ごめん}}{\text{御免}}\text{、}{\color{blue}{\text{あまり}}}\text{お酒を飲まない。}\\&\left(\text{不太喝酒。}\right)\end{array}$  
+  $\begin{array}{ll}\text{A:}&{\color{blue}{\overset{\tiny\text{ぼく}}{\text{僕}}}}{\color{green}{\text{も}}}\text{お酒をあまり飲まない}{\color{green}{\text{が}}}\text{、}{\color{blue}{\overset{\tiny\text{きみ}}{\text{君}}}}{\color{green}{\text{と}}}\overset{\tiny\text{いっしょ}}{\text{一緒}}\text{に}{\color{blue}{\text{飲みたい}}}\text{！}\\&\left(\text{我也不太喝酒，但想和你一起喝！}\right)\\\end{array}$  
+  $\begin{array}{ll}\text{B:}&\overset{\tiny\text{ごめん}}{御免}\text{、}\overset{\tiny\text{わたし}}{\text{私}}\text{は}{\color{blue}{\overset{\tiny\text{かえ}}{\text{帰}}\text{りたい}}}\text{。}\overset{\tiny\text{いま}}{\text{今}}\text{の}\overset{\tiny\text{じかん}}{\text{時間}}{\color{blue}{\text{に}}}\text{タクシー}\text{を}{\color{blue}{\overset{\tiny\text{よ}}{\text{呼}}\text{べる}}}{\color{green}{\text{か}}}\text{？}\\&\left(我想回家。現在這時間能叫到計程車嗎？\right)\end{array}$  
+  $\begin{array}{ll}\text{A:}&\text{タクシーは呼べるが、}\text{10時}{\color{blue}{\text{に}}}\overset{\tiny\text{いっしょ}}{\text{一緒}}\text{に}{\color{blue}{\overset{\tiny\text{かえ}}{\text{帰}}\text{ろう}}}\text{。}\end{array}$  
+  $\begin{array}{ll}\text{B:}\end{array}$  
+  $\text{}$  
+  $\text{}$  
+  $\text{}$  
 
 ----
 
