@@ -78,12 +78,30 @@
   $\begin{array}{ll}\text{B:}&\overset{\tiny\text{ごめん}}{\text{御免}}\text{、}{\color{blue}{\text{あまり}}}\text{お酒を飲まない。}\\&\left(\text{不太喝酒。}\right)\end{array}$  
   $\begin{array}{ll}\text{A:}&{\color{blue}{\overset{\tiny\text{ぼく}}{\text{僕}}}}{\color{green}{\text{も}}}\text{お酒をあまり飲まない}{\color{green}{\text{が}}}\text{、}{\color{blue}{\overset{\tiny\text{きみ}}{\text{君}}}}{\color{green}{\text{と}}}\overset{\tiny\text{いっしょ}}{\text{一緒}}\text{に}{\color{blue}{\text{飲みたい}}}\text{！}\\&\left(\text{我也不太喝酒，但想和你一起喝！}\right)\\\end{array}$  
   $\begin{array}{ll}\text{B:}&\overset{\tiny\text{ごめん}}{御免}\text{、}\overset{\tiny\text{わたし}}{\text{私}}\text{は}{\color{blue}{\overset{\tiny\text{かえ}}{\text{帰}}\text{りたい}}}\text{。}\overset{\tiny\text{いま}}{\text{今}}\text{の}\overset{\tiny\text{じかん}}{\text{時間}}{\color{blue}{\text{に}}}\text{タクシー}\text{を}{\color{blue}{\overset{\tiny\text{よ}}{\text{呼}}\text{べる}}}{\color{green}{\text{か}}}\text{？}\\&\left(我想回家。現在這時間能叫到計程車嗎？\right)\end{array}$  
-  $\begin{array}{ll}\text{A:}&\text{タクシーは呼べるが、}\text{10時}{\color{blue}{\text{に}}}\overset{\tiny\text{いっしょ}}{\text{一緒}}\text{に}{\color{blue}{\overset{\tiny\text{かえ}}{\text{帰}}\text{ろう}}}\text{。}\end{array}$  
-  $\begin{array}{ll}\text{B:}\end{array}$  
-  $\text{}$  
-  $\text{}$  
-  $\text{}$  
-
+  $\begin{array}{ll}\text{A:}&\text{タクシーは呼べる}{\color{green}{\text{が}}}\text{、}\text{10時}{\color{blue}{\text{に}}}\overset{\tiny\text{いっしょ}}{\text{一緒}}\text{に}{\color{blue}{\overset{\tiny\text{かえ}}{\text{帰}}\text{ろう}}}\text{。}\overset{\tiny\text{まつしま}}{\text{松島}}\overset{\tiny\text{くん}}{\text{君}}{\color{green}{\text{も}}}{\color{blue}{\overset{\tiny\text{よ}}{\text{呼}}\text{ぼう}}}\text{。}\\\end{array}$  
+  $\begin{array}{ll}\text{B:}&\text{私は}\text{、}\text{あなた}{\color{green}{\text{と}}}\text{飲みたい}{\color{green}{\text{が}}}\text{、}\overset{\tiny\text{すこ}}{\text{少}}\text{し}\text{飲む}{\color{green}{\text{と}}}\text{、}{\color{blue}{\text{死ぬようだ}}}\text{。}\text{さようなら}\text{。}\\\end{array}$  
+  $\begin{array}{ll}\text{A:}&{\color{blue}{\overset{\tiny\text{おれ}}{\text{俺}}}}\text{は}\text{、}\overset{\tiny\text{みりょく}}{\text{魅力}}{\color{green}{\text{が}}}\text{ないか？}{\color{blue}{\text{お}\overset{\tiny\text{まえ}}{\text{前}}}}{\color{green}{\text{を}}}{\color{blue}{\overset{\tiny\text{ころ}}{\text{殺}}\text{したい}}}\text{。}\overset{\tiny\text{じょうだん}}{\text{冗談}}\text{だ！}\\\end{array}$  
+- $\text{あまり}\cdots\text{ない}\implies\text{不太}$  
+  $\begin{array}{l}\overset{\tiny\text{さいきん}}{\text{最近}}\text{は、}{\color{green}{\text{あまり}}}\text{コーヒーを飲まない。}\\\left(\text{最近不太喝咖啡}\right)\\\overset{\tiny\text{さいきん}}{\text{最近}}\text{は、}\text{コーヒーを}{\color{green}{\text{あまり}}}\text{飲まない。}\\\left(\text{最近咖啡不喝那麼多的意思}\right)\\\end{array}$  
+- $\text{と}\text{的使用方式}$  
+    - $\text{全部列舉}$  
+        - $\text{有時最後一個}\text{と}\text{可以省略}$  
+          $\begin{array}{ll}&\text{コーヒー}{\color{green}{\text{と}}}\text{ジュース}{\color{green}{\text{と}}}\text{があります。}\\=&\text{コーヒー}{\color{green}{\text{と}}}\text{ジュース}\text{があります。}\\&\left(\text{有咖啡與果汁。}\right)\\\end{array}$  
+        - $\text{會造成語意不清則不省略}$  
+          $\begin{array}{l}{\overset{\tiny\text{へや}}{部屋}}\text{に}{\overset{\tiny\text{かざま}}{\text{風間}}}{\overset{\tiny\text{くん}}{\text{君}}}{\color{green}{\text{と}}}{\overset{\tiny\text{のはら}}{\text{野原}}}{\overset{\tiny\text{くん}}{\text{君}}}\text{の}{\overset{\tiny\text{いもうと}}{\text{妹}}}{\color{green}{\text{と}}}\text{がいます。}\\\left(\text{房間裡有 風間本人 與 野原的妹妹。}\right)\\{\overset{\tiny\text{へや}}{部屋}}\text{に}{\overset{\tiny\text{かざま}}{\text{風間}}}{\overset{\tiny\text{くん}}{\text{君}}}{\color{green}{\text{と}}}{\overset{\tiny\text{のはら}}{\text{野原}}}{\overset{\tiny\text{くん}}{\text{君}}}{\color{green}{\text{と}}}\text{の}{\overset{\tiny\text{いもうと}}{\text{妹}}}\text{がいます。}\\\left(\text{房間裡有 風間的妹妹 與 野原的妹妹。}\right)\\\end{array}$  
+    - $\text{共同動作的同伴}$  
+        - $\begin{array}{l}{\overset{\tiny\text{あに}}{\text{兄}}}{\color{green}{\text{と}}}{\overset{\tiny\text{いっしょ}}{\text{一緒}}\text{に}}{\overset{\tiny\text{ゆうびんきょく}}{\text{郵便局}}}\text{へ}{\overset{\tiny\text{い}}{\text{行}}\text{き}}\text{ました。}\\\left(\text{和哥哥一起去郵局。}\right)\\\end{array}$  
+        - $\begin{array}{l}{\overset{\tiny\text{たなか}}{\text{田中}}\text{さん}}\text{は}{\overset{\tiny\text{さとう}}{\text{佐藤}}\text{さん}}{\color{green}{\text{と}}}{\overset{\tiny\text{えいが}}{\text{映画}}}\text{を}{\overset{\tiny\text{み}}{\text{見}}}\text{に}{\overset{\tiny\text{い}}{\text{行}}\text{き}}\text{ます。}\\\left(\text{田中要和佐藤去看電影。}\right)\\\end{array}$  
+    - $\text{相互動作的對象}$  
+        - $\begin{array}{l}{\overset{\tiny\text{きのう}}{\text{昨日}}}\text{、}{\overset{\tiny\text{せんせい}}{\text{先生}}}{\color{green}{\text{と}}}{\overset{\tiny\text{あ}}{\text{会}}\text{い}}\text{ました。}\\\left(\text{昨天和老師會面。}\right)\\\end{array}$  
+        - $\begin{array}{l}{\overset{\tiny\text{いもうと}}{\text{妹}}}\text{は}{\overset{\tiny\text{らいげつ}}{\text{来月}}}{\overset{\tiny\text{たかはし}}{\text{高橋}}}\text{さん}{\color{green}{\text{と}}}{\overset{\tiny\text{けっこん}}{\text{結婚}}}\text{します。}\\\left(\text{妹妹下個月要和高橋先生結婚。}\right)\\\end{array}$  
+        - $\begin{array}{l}{\overset{\tiny\text{こうさてん}}{\text{交差点}}}\text{で}{\overset{\tiny\text{ちょくしんしゃ}}{\text{直進車}}}{\color{green}{\text{と}}}{\overset{\tiny\text{うせつしゃ}}{\text{右折車}}}\text{が}\text{ぶつかりました。}\\\left(\text{在十字路口，直行車和右轉車相撞。}\right)\\\end{array}$  
+    - $\text{用於比較敘述}$  
+        - $\begin{array}{l}{\overset{\tiny\text{やました}}{\text{山下}}}\text{さん}\text{の}\text{かばん}\text{は}\text{私の}{\color{green}{\text{と}}}{\overset{\tiny\text{おな}}{\text{同}}\text{じ}}{\overset{\tiny\text{いろ}}{\text{色}}}\text{ですね！}\\\left(\text{山下先生的包包和我的一樣顏色呢！}\right)\end{array}$  
+        - $\begin{array}{l}{\overset{\tiny\text{ぼく}}{\text{僕}}}\text{は}{\overset{\tiny\text{きみ}}{\text{君}}}{\color{green}{\text{と}}}{\overset{\tiny\text{ちがって}}{\text{違って}}}\text{、}{\overset{\tiny\text{ねこは}}{\text{猫派}}}\text{です。}\\\left(\text{我和你不一樣，我是愛貓派的。}\right)\end{array}$  
+        - $\begin{array}{l}{\overset{\tiny\text{しゃしん}}{\text{写真}}}{\color{green}{\text{と}}}{\overset{\tiny\text{じつぶつ}}{\text{実物}}}\text{が}{\overset{\tiny\text{ぜんぜん}}{\text{全然}}}{\overset{\tiny\text{ちがい}}{\text{違い}}}\text{ます。}\\\left(\text{照片跟實際物品完全不同。}\right)\end{array}$  
+    - $\text{用於條件表示}$  
+    - $\text{}$  
 ----
 
 ## Reference
