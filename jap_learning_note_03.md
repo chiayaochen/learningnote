@@ -101,7 +101,12 @@
         - $\begin{array}{l}{\overset{\tiny\text{ぼく}}{\text{僕}}}\text{は}{\overset{\tiny\text{きみ}}{\text{君}}}{\color{green}{\text{と}}}{\overset{\tiny\text{ちがって}}{\text{違って}}}\text{、}{\overset{\tiny\text{ねこは}}{\text{猫派}}}\text{です。}\\\left(\text{我和你不一樣，我是愛貓派的。}\right)\end{array}$  
         - $\begin{array}{l}{\overset{\tiny\text{しゃしん}}{\text{写真}}}{\color{green}{\text{と}}}{\overset{\tiny\text{じつぶつ}}{\text{実物}}}\text{が}{\overset{\tiny\text{ぜんぜん}}{\text{全然}}}{\overset{\tiny\text{ちがい}}{\text{違い}}}\text{ます。}\\\left(\text{照片跟實際物品完全不同。}\right)\end{array}$  
     - $\text{用於條件表示}$  
-    - $\text{}$  
+        - $\begin{array}{l}\overset{\tiny\text{いえ}}{\text{家}}\text{に}\overset{\tiny\text{かえ}}{\text{帰}}\text{る}{\color{green}{\text{と}}}\text{、}\text{お}\overset{\tiny\text{さけ}}{\text{酒}}\text{を}\overset{\tiny\text{の}}{\text{飲}}\text{まない。}\\\left(\text{若回到家，則不喝酒}\right)\end{array}$  
+- $\text{稱謂的語氣}$
+    - $\begin{array}{c|c|l}\text{我} & \text{你} & \text{備註}\\\hline\\\overset{\tiny\text{わたし}}{\text{私}} & \text{あなた} & \text{語氣比較客氣，適合初學者}\\\hline\\\overset{\tiny\text{ぼく}}{\text{僕}} & {\color{green}{\overset{\tiny\text{きみ}}{\text{君}}}} & \text{語氣輕鬆，用於好朋友之間}\\\hline\\\overset{\tiny\text{おれ}}{\text{俺}} & \text{お}\overset{\tiny\text{まえ}}{\text{前}} & \text{男性團體之間的率性語氣，不適合外國人使用}\\\end{array}$  
+    - $\begin{array}{c|l}\text{第三者} & \text{備註}\\\hline\\\overset{\tiny\text{さま}}{\text{様}} & \text{更客氣的語氣}\\\hline\\\text{さん} & \text{先生小姐的一般稱呼}\\\hline\\{\color{green}{\overset{\tiny\text{くん}}{\text{君}}}} & \text{用於長輩對晚輩，或者男性之間}\\\end{array}$  
+
+
 ----
 
 ## Reference
