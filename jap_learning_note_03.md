@@ -106,7 +106,46 @@
     - $\begin{array}{c|c|l}\text{我} & \text{你} & \text{備註}\\\hline\\\overset{\tiny\text{わたし}}{\text{私}} & \text{あなた} & \text{語氣比較客氣，適合初學者}\\\hline\\\overset{\tiny\text{ぼく}}{\text{僕}} & {\color{green}{\overset{\tiny\text{きみ}}{\text{君}}}} & \text{語氣輕鬆，用於好朋友之間}\\\hline\\\overset{\tiny\text{おれ}}{\text{俺}} & \text{お}\overset{\tiny\text{まえ}}{\text{前}} & \text{男性團體之間的率性語氣，不適合外國人使用}\\\end{array}$  
     - $\begin{array}{c|l}\text{第三者} & \text{備註}\\\hline\\\overset{\tiny\text{さま}}{\text{様}} & \text{更客氣的語氣}\\\hline\\\text{さん} & \text{先生小姐的一般稱呼}\\\hline\\{\color{green}{\overset{\tiny\text{くん}}{\text{君}}}} & \text{用於長輩對晚輩，或者男性之間}\\\end{array}$  
 
+## 如果是動詞原形的尾巴是母音呢
+- $\begin{array}{l}\overset{\tiny\text{か}}{\text{買}}\text{う}\end{array}$  
+  $\left\{\begin{array}{clcll}+&\text{ない}&=&\overset{\tiny\text{か}}{\text{買}}{\cancel{\color{green}{\text{あ}}}}\text{ない}\\ & & \to &\overset{\tiny\text{か}}{\text{買}}{\color{green}{\text{わ}}}\text{ない}&\text{不買}\\+&\text{たい}&=&\overset{\tiny\text{か}}{\text{買}}{\color{green}{\text{い}}}\text{たい}&\text{想買}\\+&\text{ようだ}&=&\overset{\tiny\text{か}}{\text{買}}{\color{green}{\text{う}}}\text{ようだ}&\text{像買}\\+&\text{る}&=&\overset{\tiny\text{か}}{\text{買}}{\color{green}{\text{え}}}\text{る}&\text{能買}\\+&\text{う}&=&\overset{\tiny\text{か}}{\text{買}}{\color{green}{\text{お}}}\text{う}&\text{買吧}\\\end{array}\right.$
 
+## 方位描述
+- $\begin{array}{c|c|c|c|c} & \text{修飾名詞} & \text{修飾名詞} & \text{指示代名詞} & \text{修飾動詞} \\ \hline \text{ここ} & \text{この本} & \text{こんな本} & \text{これ} & \text{こう書く} \\ \left(\text{這裡}\right) & \left(\text{這本書}\right) & \left(\text{這樣的書}\right) & \left(\text{這個}\right) & \left(\text{這樣寫}\right) \\ \hline \text{そこ} & \text{その本} & \text{そんな本} & \text{それ} & \text{そう書く} \\ \left(\text{那裡}\right) & \left(\text{那本書}\right) & \left(\text{那樣的書}\right) & \left(\text{那個}\right) & \left(\text{那樣寫}\right) \\ \hline \text{どこ} & \text{どの本} & \text{どんな本} & \text{どれ} & \text{どう書く} \\ \left(\text{哪裡}\right) & \left(\text{哪本書}\right) & \left(\text{哪樣的書}\right) & \left(\text{哪個}\right) & \left(\text{哪樣寫}\right) \\ \end{array}$
+- $\text{例句}$  
+    - ${\overset{\tiny\text{きょうかしょ}}{\text{教科書}}}\text{を}\text{買わない}\text{。}$  
+    - $\text{どの}{\overset{\tiny\text{まんが}}{\text{漫画}}}\text{を}\text{買いたいか}\text{？}$  
+      $\text{この}{\overset{\tiny\text{まんが}}{\text{漫画}}}\text{を}\text{買いたい}\text{。}$  
+      $\text{その}{\overset{\tiny\text{まんが}}{\text{漫画}}}\text{を}\text{買いたい}\text{。}$  
+    - ${\overset{\tiny\text{かのじょ}}{\text{彼女}}}\text{が}\text{どこ}\text{で}{\overset{\tiny\text{いふく}}{\text{衣服}}}\text{を}\text{買うか}\text{？}$  
+      ${\overset{\tiny\text{かのじょ}}{\text{彼女}}}\text{が}\text{ここ}\text{で}{\overset{\tiny\text{いふく}}{\text{衣服}}}\text{を}\text{買うようだ}\text{。}$  
+      ${\overset{\tiny\text{かのじょ}}{\text{彼女}}}\text{が}\text{そこ}\text{で}{\overset{\tiny\text{いふく}}{\text{衣服}}}\text{を}\text{買うようだ}\text{。}$  
+    - $\text{この}{\overset{\tiny\text{みせ}}{\text{店}}}\text{で}\text{、}\text{こんな本}\text{を}\text{買える}\text{か}\text{？}$  
+      $\text{その}{\overset{\tiny\text{みせ}}{\text{店}}}\text{で}\text{、}\text{こんな本}\text{を}\text{買える}\text{か}\text{？}$  
+      $\text{どの}{\overset{\tiny\text{みせ}}{\text{店}}}\text{で}\text{、}\text{そんな本}\text{を}\text{買える}\text{か}\text{？}$  
+    - $\text{どれ}\text{を}\text{買おう}\text{か}\text{？}$  
+      $\text{これ}\text{を}\text{買おう}\text{。}$  
+      $\text{それ}\text{を}\text{買おう}\text{。}$  
+
+## 動詞複習小整理
+- $\begin{array}{c|c|c|c|c|c|c|c|l} {\overset{\tiny\text{か}}{\text{買}}\text{う}} & {\overset{\tiny\text{か}}{\text{書}}\text{く}} & {\overset{\tiny\text{ころ}}{\text{殺}}\text{す}} & {\overset{\tiny\text{う}}{\text{打}}\text{つ}} & {\overset{\tiny\text{し}}{\text{死}}\text{ぬ}} & {\overset{\tiny\text{よ}}{\text{呼}}\text{ぶ}} & {\overset{\tiny\text{の}}{\text{飲}}\text{む}} & {\overset{\tiny\text{かえ}}{\text{帰}}\text{る}} & \text{助動詞} \\ \hline \text{買わ} & \text{書か} & \text{殺さ} & \text{打た} & \text{死な} & \text{呼ば} & \text{飲ま} & \text{帰ら} & \text{ない}\ \left(\text{不}\right) \\ \hline \text{買い} & \text{書き} & \text{殺し} & \text{打ち} & \text{死に} & \text{呼び} & \text{飲み} & \text{帰り} & \text{たい} \\ \hline \text{買う} & \text{書く} & \text{殺す} & \text{打つ} & \text{死ぬ} & \text{呼ぶ} & \text{飲む} & \text{帰る} & \text{ようだ} \\ \hline \text{買え} & \text{書け} & \text{殺せ} & \text{打て} & \text{死ね} & \text{呼べ} & \text{飲め} & \text{帰れ} & \text{る} \\ \hline \text{買お} & \text{書こ} & \text{殺そ} & \text{打と} & \text{死の} & \text{呼ぼ} & \text{飲も} & \text{帰ろ} & \text{う} \\\end{array}$  
+ 
+## 再學一些助動詞
+- $\begin{array}{c|c|c|c|c|c|c|c|l} {\overset{\tiny\text{か}}{\text{買}}\text{う}} & {\overset{\tiny\text{か}}{\text{書}}\text{く}} & {\overset{\tiny\text{ころ}}{\text{殺}}\text{す}} & {\overset{\tiny\text{う}}{\text{打}}\text{つ}} & {\overset{\tiny\text{し}}{\text{死}}\text{ぬ}} & {\overset{\tiny\text{よ}}{\text{呼}}\text{ぶ}} & {\overset{\tiny\text{の}}{\text{飲}}\text{む}} & {\overset{\tiny\text{かえ}}{\text{帰}}\text{る}} & \text{助動詞} \\ \hline \text{わ} & \text{か} & \text{さ} & \text{た} & \text{な} & \text{ば} & \text{ま} & \text{ら} & \text{ない}\ \left(\text{不}\right) \\ \hline \text{い} & \text{き} & \text{し} & \text{ち} & \text{に} & \text{び} & \text{み} & \text{り} & \text{たい}\ \left(\text{想要}\right) \\ \hline \text{う} & \text{く} & \text{す} & \text{つ} & \text{ぬ} & \text{ぶ} & \text{む} & \text{る} & \text{ようだ}\ \left(\text{像是在}\right) \\ \hline \text{え} & \text{け} & \text{せ} & \text{て} & \text{ね} & \text{べ} & \text{め} & \text{れ} & \text{る}\ \left(\text{能}\right) \\ \hline \text{お} & \text{こ} & \text{そ} & \text{と} & \text{の} & \text{ぼ} & \text{も} & \text{ろ} & \text{う}\ \left(\text{吧}\right) \\\end{array}$  
+- ${\left[ \begin{array}{c}{\overset{\tiny\text{か}}{\text{買}}\text{う}} \\ {\overset{\tiny\text{か}}{\text{書}}\text{く}} \\ {\overset{\tiny\text{ころ}}{\text{殺}}\text{す}} \\ {\overset{\tiny\text{う}}{\text{打}}\text{つ}} \\ {\overset{\tiny\text{し}}{\text{死}}\text{ぬ}} \\ {\overset{\tiny\text{よ}}{\text{呼}}\text{ぶ}} \\ {\overset{\tiny\text{の}}{\text{飲}}\text{む}} \\ {\overset{\tiny\text{かえ}}{\text{帰}}\text{る}} \end{array} \right]}{\otimes}{\left[ \begin{array}{c|cc} {\text{わ}} & {\begin{array}{c}\text{ない} \\ \left(\text{不}\right)\end{array}} & {\begin{array}{c}\text{れる} \\ \left(\text{被}\right)\end{array}} \\ {\text{い}} & {\begin{array}{c}\text{たい} \\ \left(\text{想要}\right)\end{array}} & {\begin{array}{c}\text{そうだ} \\ \left(\text{像是要}\right)\end{array}} \\ {\text{う}} & {\begin{array}{c}\text{ようだ} \\ \left(\text{像是在}\right)\end{array}} & {\begin{array}{c}\text{べきだ} \\ \left(\text{應該要}\right)\end{array}} \\ {\text{え}} & {\begin{array}{c}\text{る} \\ \left(\text{能}\right)\end{array}} & {\begin{array}{c}\text{ば} \\ \left(\text{如果}\cdots\text{的話}\right)\end{array}} \\ {\text{お}} & {\begin{array}{c}\text{う} \\ \left(\text{吧}\right)\end{array}} & {} \end{array} \right]}$  
+- $\text{例句}$  
+    - $\begin{array}{l}{\overset{\tiny\text{やまもと}}{\text{山本}}}{\overset{\tiny\text{くん}}{\text{君}}}\text{は}\text{、}{\overset{\tiny\text{せんぱい}}{\text{先輩}}}\text{に}{\overset{\tiny\text{う}}{\text{打}}}\text{たれる}\text{。} \\ {\left(\text{山本同學被學長打。}\right)}\end{array}$  
+    - $\begin{array}{l}\text{}\end{array}$  
+    - $\begin{array}{l}\end{array}$  
+    - $\begin{array}{l}\end{array}$  
+    - $\begin{array}{l}\end{array}$  
+    - $\begin{array}{l}\end{array}$  
+    - $\begin{array}{l}\end{array}$  
+
+{\overset{\tiny\text{}}{\text{}}}
+{\left(\text{}\right)}
+----
+- ${\begin{array}{c}\text{う} \\ \left(\text{吧}\right)\end{array}}$
 ----
 
 ## Reference
