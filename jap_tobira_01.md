@@ -65,6 +65,32 @@
 - $\text{Useful phrases in class}$  
     - $\begin{array}{ll}\text{Teacher:}&\text{わかりますか。}\\&\text{Do you understand？}\\\text{Student：}&\left\{\begin{array}{ll}\text{はい、わかります。}\\\text{いいえ、わかりません。}\end{array}\right.\end{array}$  
     - $\text{Asking questions}$  
-      $\begin{array}{ll}\text{Student:}&\text{とびらせんせい、しつもんが　あります。}\\&\text{Prof. Tobira, I have a question.}\\\text{Teacher:}&\text{はい、スミスさん。}\\\text{Student:}&{\color{Yellow}{\text{Pencil}}}\text{　は　にほんごで　なんですか。}\\\text{Teacher:}&{\color{Yellow}{\text{Pencil}}}\text{　は　にほんごで　}{\color{Yellow}{\text{えんぴつ}}}\text{です。}\\\text{Student:}&{\color{Yellow}{\text{けしゴム}}}\text{は　えいごで　なんですか。}\\\text{Teacher:}&{\color{Yellow}{\text{けしゴム}}}\text{は　えいごで　}{\color{Yellow}{\text{eraser}}}\text{です。}\\\text{Student:}&\left\{\begin{array}{ll}\text{そうですか。ありがとうございます。}\\\text{わかりました。ありがとうございます。}\end{array}\right.\end{array}$  
-    - $\text{}$  
-      $\text{}$  
+      $\begin{array}{ll}\text{Student:}&\text{とびらせんせい、しつもんが　あります。}\\&\text{Prof. Tobira, I have a question.}\\\text{Teacher:}&\text{はい、スミスさん。}\\\text{Student:}&{\color{Yellow}{\text{Pencil}}}\text{　は　にほんごで　なんですか。}\\\text{Teacher:}&{\color{Yellow}{\text{Pencil}}}\text{　は　にほんごで　}{\color{Yellow}{\text{えんぴつ}}}\text{です。}\\\text{Student:}&{\color{Yellow}{\text{けしゴム}}}\text{は　えいごで　なんですか。}\\\text{Teacher:}&{\color{Yellow}{\text{けしゴム}}}\text{は　えいごで　}{\color{Yellow}{\text{eraser}}}\text{です。}\\\text{Student:}&\left\{\begin{array}{ll}\text{そうですか。ありがとうございます。}\\\text{わかりました。ありがとうございます。}\end{array}\right.\end{array}$
+
+### Japanese pronunciation
+- $\text{Japanese pronunciation website}$
+    - https://enunciate.arts.ubc.ca/japanese/introduction/vowels-of-japanese/
+        - $\text{あ}=\text{Low central vowel}$
+            - $\text{あ}=\text{F}{\color{green}{\text{a}}}\text{ther}$
+        - $\text{い}=\text{High front vowel}$
+            - $\text{い}=\text{F}{\color{green}{\text{ee}}}\text{t}$
+        - $\text{う}=\text{High back vowel}$
+            - $\text{う}=\text{C}{\color{green}{\text{oo}}}\text{k}$
+        - $\text{え}=\text{Mid front vowel}$
+            - $\text{え}=\text{P}{\color{green}{\text{e}}}\text{t}$
+        - $\text{お}=\text{Mid back vowel}$
+            - $\text{お}=\text{S}{\color{green}{\text{o}}}$
+    - https://enunciate.arts.ubc.ca/japanese/introduction/46-sounds-of-japanese/
+        - $\text{し、ち、つ、ふ、を}\text{這五個子音比較難學}$
+    - https://enunciate.arts.ubc.ca/japanese/lets-practice/rariru/
+        - $\text{ら} \sim \text{Weak }{\color{green}{\text{da}}}\text{ in English}$
+- $\text{Key differences}$
+    - $\text{Vowel sounds}$ 
+        - $\text{あ}=\text{F}{\color{green}{\text{a}}}\text{ther}$
+        - $\text{い}=\text{Mach}{\color{green}{\text{i}}}\text{ne}$
+        - $\text{う}=\text{R}{\color{green}{\text{u}}}\text{de}$
+        - $\text{え}=\text{Dr}{\color{green}{\text{e}}}\text{ss}$
+        - $\text{お}=\text{N}{\color{green}{\text{o}}}\text{rth}$
+    - ${\left[\text{k-}\right]}\text{、}{\left[\text{t-}\right]}\text{、}{\left[\text{p-}\right]}$
+        - $\text{比起英文中文韓文，比較接近法文或西班牙文的發音方式}$
+    - $\text{し、ち、つ}\text{的發音方式不是}{\left[\text{s-}\right]}\text{、}{\left[\text{t-}\right]}$
