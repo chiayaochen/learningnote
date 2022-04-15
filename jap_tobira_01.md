@@ -93,4 +93,35 @@
         - $\text{お}=\text{N}{\color{green}{\text{o}}}\text{rth}$
     - ${\left[\text{k-}\right]}\text{、}{\left[\text{t-}\right]}\text{、}{\left[\text{p-}\right]}$
         - $\text{比起英文中文韓文，比較接近法文或西班牙文的發音方式}$
+        - $\text{た}\text{比較像是}\text{s}{\color{green}{\text{ta}}}\text{r}\text{而不是tar}$
+        - $\text{て}\text{比較像是}\text{s}{\color{green}{\text{te}}}\text{p}\text{而不是tepid}$
+        - $\text{と}\text{比較像是}\text{s}{\color{green}{\text{to}}}\text{re}\text{而不是tore}$
     - $\text{し、ち、つ}\text{的發音方式不是}{\left[\text{s-}\right]}\text{、}{\left[\text{t-}\right]}$
+        - $\text{し}\text{比較接近 ㄒㄧ}$
+        - $\text{ち}\text{比較接近 ㄐㄧ}$
+        - $\text{つ}\text{比較接近 I}{\color{green}{\text{t's oo}}}\text{zing}$
+    - $\text{ふ}\text{的發音比較接近 fu 但嘴唇是圓的。}$
+    - ${\left[\text{r-}\right]}\text{跟西班牙文或英文的 r 的發音方式是不同的。}$
+    - $\text{ん}\text{的發音方式會隨著擺放位置不同而改變。有時候是 n 有時候是 ng 有時候是 m}$
+- $\text{Voiced and semi-voiced sounds }$
+    - https://enunciate.arts.ubc.ca/japanese/lets-practice/voiced-vs-voiceless/
+- $\text{Long vowels}$
+    - $\text{母音是}\text{あ}\text{則長音尾巴也是}\text{あ}$
+    - $\text{母音是}\text{い}\text{則長音尾巴也是}\text{い}$
+    - $\text{母音是}\text{う}\text{則長音尾巴也是}\text{う}$
+    - $\text{母音是}\text{え}\text{則長音尾巴改成}\text{い}$
+    - $\text{母音是}\text{お}\text{則長音尾巴改成}\text{う}$
+    - $\text{不過當然有例外，例如}$
+        - $\text{お}{\color{green}{\text{ねえ}}}\text{さん}$
+        - ${\color{green}{\text{おお}}}\text{きい}$
+- $\text{Double consonants}$
+    - $\text{きてください}$
+    - $\text{きってください}$
+    - $\text{きいてください}$
+- $\text{Contracted sounds}$
+    - $\text{し}\left[\text{shi}\right]\neq\text{すぃ}\left[\text{si}\right]$  
+      https://enunciate.arts.ubc.ca/japanese/lets-practice/si-vs-shi/
+    - $\text{ざ}\left[\text{za}\right]\neq\text{じゃ}\left[\text{ja}\right]$  
+      https://enunciate.arts.ubc.ca/japanese/lets-practice/ja-vs-za/
+    - $\text{つ}\left[\text{tsu}\right]\neq\text{ちゅ}\left[\text{chu}\right]$  
+      https://enunciate.arts.ubc.ca/japanese/lets-practice/tsu-vs-chu/
