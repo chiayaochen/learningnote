@@ -167,12 +167,19 @@
     - $\begin{array}{ll}{\overset{\tiny\text{ほんとう}}{\text{本当}}}{\text{の}}{\text{こと}}{\text{を}}{\overset{\tiny\text{い}}{\text{言}}}{\text{え！}} \\ \left({\text{說出真相！}}\right)\end{array}$
     - $\begin{array}{ll}{\overset{\tiny\text{おれ}}{\text{俺}}}{\text{の}}{\overset{\tiny\text{まえ}}{\text{前}}}{\text{に}}{\overset{\tiny\text{た}}{\text{立}}}{\text{て！}} \\ \left( {\text{站到我的面前！}} \right)\end{array}$
     - $\begin{array}{ll}{\overset{\tiny\text{がんば}}{\text{頑張}}}{\text{れ！}} \\ \left( {\text{命令句型的加油，具有激勵鼓舞士氣的意思}} \right) \end{array}$
-- $\begin{array}{ll}{\overset{\tiny\text{きょう}}{\text{今日}}}{\text{は}}{\text{お}}{\overset{\tiny\text{きゃく}}{\text{客}}}{\text{が}}{\overset{\tiny\text{あ}}{\text{有}}}{る} \\ \end{array}$
-    - $\begin{array}{ll}\end{array}$
-    - $\begin{array}{ll}\end{array}$
-    - $\begin{array}{ll}\end{array}$
-    - $\begin{array}{ll}\end{array}$
-    - $\begin{array}{ll}\end{array}$
+- $\begin{array}{ll}{\overset{\tiny\text{きょう}}{\text{今日}}}{\text{は}}{\text{お}}{\overset{\tiny\text{きゃく}}{\text{客}}}{\text{が}}{\color{green}{{\overset{\tiny\text{あ}}{\text{有}}}{る}}} \\ \left( \text{今天有客人} \right)\end{array}$
+    - $\begin{array}{ll}{\overset{\tiny\text{きょう}}{\text{今日}}}{\text{は}}{\text{お}}{\overset{\tiny\text{きゃく}}{\text{客}}}{\text{が}}{\color{red}{\cancel{{\overset{\tiny\text{あ}}{\text{有}}}{らない}}}}{\to} \\ {\overset{\tiny\text{きょう}}{\text{今日}}}{\text{は}}{\text{お}}{\overset{\tiny\text{きゃく}}{\text{客}}}{\text{が}}{\color{green}{\text{ない}}} \\ \left( \text{今天沒有客人} \right)\end{array}$
+    - $\begin{array}{ll} {\overset{\tiny\text{きょう}}{\text{今日}}}{\text{は}}{\text{お}}{\overset{\tiny\text{きゃく}}{\text{客}}}{\text{が}}{\color{green}{\text{ありそうだ}}} \\ \left( \text{今天看起來好像有客人} \right) \end{array}$
+    - $\begin{array}{ll} {\overset{\tiny\text{きょう}}{\text{今日}}}{\text{は}}{\text{お}}{\overset{\tiny\text{きゃく}}{\text{客}}}{\text{が}}{\color{green}{\text{あるようだ}}} \\ \left( \text{今天感覺好像有客人} \right) \end{array}$
+## 複習前面提的方位描述
+- $\begin{array}{c|c|c|c|c} & \text{修飾名詞} & \text{修飾名詞} & \text{指示代名詞} & \text{修飾動詞} \\ \hline \text{ここ} & \text{この本} & \text{こんな本} & \text{これ} & \text{こう書く} \\ \left(\text{這裡}\right) & \left(\text{這本書}\right) & \left(\text{這樣的書}\right) & \left(\text{這個}\right) & \left(\text{這樣寫}\right) \\ \hline \text{そこ} & \text{その本} & \text{そんな本} & \text{それ} & \text{そう書く} \\ \left(\text{那裡}\right) & \left(\text{那本書}\right) & \left(\text{那樣的書}\right) & \left(\text{那個}\right) & \left(\text{那樣寫}\right) \\ \hline \text{どこ} & \text{どの本} & \text{どんな本} & \text{どれ} & \text{どう書く} \\ \left(\text{哪裡}\right) & \left(\text{哪本書}\right) & \left(\text{哪樣的書}\right) & \left(\text{哪個}\right) & \left(\text{哪樣寫}\right) \\ \end{array}$
+
+## 方位描述進階版
+- $\text{基本} \left\{ \begin{array}{l} \text{ここ} \\ \left( \text{這裡} \right) \\ \hline \text{そこ} \\ \left( \text{那裡} \right) \\ \hline \text{あそこ} \\ \left( \text{更遠的那裡} \right) \\ \hline \text{どこ} \\ \left( \text{哪裡} \right) \end{array} \right. \to \text{指示代名詞} \left\{ \begin{array}{l} \text{これ} \\ \left( \text{這個} \right) \\ \hline \text{それ} \\ \left( \text{那個} \right) \\ \hline \text{あれ} \\ \left( \text{更遠的那個} \right) \\ \hline \text{どれ} \\ \left( \text{哪個} \right) \end{array} \right.$
+- $\text{修飾名詞} \left\{ \begin{array}{l} \text{この本} \\ \left( \text{這本書} \right) \\ \hline \text{その本} \\ \left( \text{那本書} \right) \\ \hline \text{あの本} \\ \left( \text{更遠的那本書} \right) \\ \hline \text{どの本} \\ \left( \text{哪本書} \right) \end{array} \right.$
+- $\text{修飾動詞} \left\{ \begin{array}{l} \text{こう書く} \\ \left( \text{這樣子寫} \right) \\ \hline \text{そう書く} \\ \left( \text{那樣子寫} \right) \\ \hline \text{ああ書く} \\ \left( \text{更遠的那樣子寫} \right) \\ \hline \text{どう書く} \\ \left( \text{哪樣子寫} \right) \end{array} \right.$
+- $\text{修飾名詞} \left\{ \begin{array}{l}  \end{array} \right.$
+
 ----
 
 ## Reference
