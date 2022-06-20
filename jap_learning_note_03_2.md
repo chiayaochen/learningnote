@@ -1,0 +1,27 @@
+<style>
+    body {
+        font-family: serif, sans-serif;
+    }
+    .katex {
+        font-family: serif, sans-serif, default;
+    }
+</style>
+
+# 日文學習筆記
+## 再複習一下之前學過的動詞變化
+- $\text{五段動詞變化}$  
+  ${\left[ \begin{array}{c} \overset{\tiny\text{う}}{\text{売}} \\ \overset{\tiny\text{ふ}}{\text{降}} \\ \overset{\tiny\text{と}}{\text{取}} \\ \overset{\tiny\text{かえ}}{\text{帰}} \\ \overset{\tiny\text{し}}{\text{知}} \\ \overset{\tiny\text{はし}}{\text{走}} \\ \overset{\tiny\text{い}}{\text{要}} \end{array} \right]{\text{る}}}{\to}{\left[ \begin{array}{ccc} {\begin{array}{c} \text{らない} \\ \left(\text{不}\right)\end{array}} & {\begin{array}{c} {\text{ら}}\text{れる} \\ \left(\text{被}\right)\end{array}} & {\begin{array}{c} {\text{ら}}\text{せる} \\ \left(\text{使之}\right)\end{array}} \\ \hline \\ {\begin{array}{c} \text{りたい} \\ \left(\text{想要}\right)\end{array}} & {\begin{array}{c} \text{りそうだ} \\ \left(\text{像是要}\right)\end{array}} & {\begin{array}{c} \text{りながら} \\ \left(\text{一邊}\right)\end{array}}\\ \hline \\ {\begin{array}{c}{\text{る}}\text{ようだ} \\ \left(\text{像是在}\right)\end{array}} & {\begin{array}{c} {\text{る}}\text{べきだ} \\ \left(\text{應該要}\right)\end{array}} & {\begin{array}{c} {\text{る}}\text{こと} \\ \left(\text{這事}\right)\end{array}} \\ \hline {\begin{array}{c} {\text{れ}}\text{る} \\ \left(\text{能}\right)\end{array}} & {\begin{array}{c} {\text{れ}}\text{ば} \\ \left(\text{如果}\cdots\text{的話}\right) \end{array}} & {\begin{array}{c} {\text{れ}}\text{！} \\ \left(\text{命令句}\right)\end{array}} \\ \hline {\begin{array}{c} {\text{ろ}}\text{う} \\ \left(\text{吧}\right)\end{array}} & {} \end{array} \right]}$  
+- $\text{上一段動詞變化}$  
+  ${\left[ \begin{array}{c} \text{い} \\ \overset{\tiny\text{い}}{\text{居}} \\ \overset{\tiny\text{み}}{\text{見}} \\ \overset{\tiny\text{き}}{\text{着}} \\ \overset{\tiny\text{お}}{\text{落}}{\text{ち}} \\ \overset{\tiny\text{お}}{\text{降}}{\text{り}} \\ \overset{\tiny\text{お}}{\text{起}}{\text{き}} \end{array} \right]{\text{る}}}{\to}{\left[ \begin{array}{ccc} {\begin{array}{c} \color{red}{\cancel{{\text{ら}}\text{ない}}} \\ {}\text{ない} \\ \left(\text{不}\right)\end{array}} & {\begin{array}{c} {\text{ら}}\text{れる} \\ \left(\text{被}\right)\end{array}} & {\begin{array}{c} \color{red}{\cancel{{\text{ら}}\text{せる}}} \\ {\text{さ}}\text{せる} \\ \left(\text{使之}\right)\end{array}} \\ \hline \\ {\begin{array}{c} \color{red}{\cancel{{\text{り}}\text{たい}}} \\ {}\text{たい} \\ \left(\text{想要}\right)\end{array}} & {\begin{array}{c} \color{red}{\cancel{{\text{り}}\text{そうだ}}} \\ {}\text{そうだ} \\ \left(\text{像是要}\right)\end{array}} & {\begin{array}{c} \color{red}{\cancel{{\text{り}}\text{ながら}}} \\ {}\text{ながら} \\ \left(\text{一邊}\right)\end{array}}\\ \hline \\ {\begin{array}{c}{\text{る}}\text{ようだ} \\ \left(\text{像是在}\right)\end{array}} & {\begin{array}{c} {\text{る}}\text{べきだ} \\ \left(\text{應該要}\right)\end{array}} & {\begin{array}{c} {\text{る}}\text{こと} \\ \left(\text{這事}\right)\end{array}} \\ \hline {\begin{array}{c} {\text{れ}}\text{る} \\ \left(\text{能}\right)\end{array}} & {\begin{array}{c} {\text{れ}}\text{ば} \\ \left(\text{如果}\cdots\text{的話}\right) \end{array}} & {\begin{array}{c} \color{red}{\cancel{{\text{れ}}\text{！}}} \\ {\text{ろ}}\text{！} \\ \left(\text{命令句}\right)\end{array}} \\ \hline {\begin{array}{c} \color{red}{\cancel{{\text{ろ}}\text{う}}} \\ {\text{よ}}\text{う} \\ \left(\text{吧}\right)\end{array}} & {} \end{array} \right]}$  
+- $\text{下一段動詞變化}$  
+  ${\left[ \begin{array}{c} \overset{\tiny\text{ね}}{\text{寝}} \\ \overset{\tiny\text{で}}{\text{出}} \\ \overset{\tiny\text{た}}{\text{食}}{\text{べ}} \\ \overset{\tiny\text{わす}}{\text{忘}}{\text{れ}} \\ \overset{\tiny\text{はじ}}{\text{始}}{\text{め}} \\ \overset{\tiny\text{や}}{\text{痩}}{\text{せ}} \\ \overset{\tiny\text{き}}{\text{決}}{\text{め}} \\ \overset{\tiny\text{あ}}{\text{上}}{\text{げ}} \\ \overset{\tiny\text{か}}{\text{換}}{\text{え}} \end{array} \right]{\text{る}}}{\to}{\left[ \begin{array}{ccc} {\begin{array}{c} \color{red}{\cancel{{\text{ら}}\text{ない}}} \\ {}\text{ない} \\ \left(\text{不}\right)\end{array}} & {\begin{array}{c} {\text{ら}}\text{れる} \\ \left(\text{被}\right)\end{array}} & {\begin{array}{c} \color{red}{\cancel{{\text{ら}}\text{せる}}} \\ {\text{さ}}\text{せる} \\ \left(\text{使之}\right)\end{array}} \\ \hline \\ {\begin{array}{c} \color{red}{\cancel{{\text{り}}\text{たい}}} \\ {}\text{たい} \\ \left(\text{想要}\right)\end{array}} & {\begin{array}{c} \color{red}{\cancel{{\text{り}}\text{そうだ}}} \\ {}\text{そうだ} \\ \left(\text{像是要}\right)\end{array}} & {\begin{array}{c} \color{red}{\cancel{{\text{り}}\text{ながら}}} \\ {}\text{ながら} \\ \left(\text{一邊}\right)\end{array}}\\ \hline \\ {\begin{array}{c}{\text{る}}\text{ようだ} \\ \left(\text{像是在}\right)\end{array}} & {\begin{array}{c} {\text{る}}\text{べきだ} \\ \left(\text{應該要}\right)\end{array}} & {\begin{array}{c} {\text{る}}\text{こと} \\ \left(\text{這事}\right)\end{array}} \\ \hline {\begin{array}{c} {\text{れ}}\text{る} \\ \left(\text{能}\right)\end{array}} & {\begin{array}{c} {\text{れ}}\text{ば} \\ \left(\text{如果}\cdots\text{的話}\right) \end{array}} & {\begin{array}{c} \color{red}{\cancel{{\text{れ}}\text{！}}} \\ {\text{ろ}}\text{！} \\ \left(\text{命令句}\right)\end{array}} \\ \hline {\begin{array}{c} \color{red}{\cancel{{\text{ろ}}\text{う}}} \\ {\text{よ}}\text{う} \\ \left(\text{吧}\right)\end{array}} & {} \end{array} \right]}$  
+
+
+----
+
+## Reference
+- $\text{日文結構的秘密：跨越初級障礙；明智周 著；新北市：明智工作室；2020.10；新裝版}$  
+  <https://metadata.ncl.edu.tw/blstkmc/blstkm?!!NOMA021096557>
+- <https://jp.sonic-learning.com/2011/06/25/extra03/>
+
+----
