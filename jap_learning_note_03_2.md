@@ -137,6 +137,158 @@ $
   \left( \text{姊姊每天都讓孩子用功念書} \right)
   \end{array}
   $
+- $
+  \begin{array}{l}
+  {\overset{\tiny\text{せんせい}}{\text{先生}}}{\text{は}}{\overset{\tiny\text{かのじょ}}{\text{彼女}}}{\text{と}}{\overset{\tiny\text{けっこん}}{\text{結婚}}}{\text{をするようだ。}}
+  \\
+  \left( \text{老師和她似乎要結婚} \right)
+  \end{array}
+  $
+- $
+  \begin{array}{l}
+  {\overset{\tiny\text{しゅう}}{\text{週}}}{\overset{\tiny\text{にかい}}{\text{二回}}}{\overset{\tiny\text{うんどう}}{\text{運動}}}{\text{をするべきだ。}}
+  \\
+  \left( \text{應該要每週運動兩次} \right)
+  \end{array}
+  $
+- $
+  \begin{array}{l}
+  {\overset{\tiny\text{でんわ}}{\text{電話}}}{\text{をしながら}}
+  \\
+  \left( \text{邊講電話} \right)
+  \\
+  {\overset{\tiny\text{でんわ}}{\text{電話}}}{\text{をしながら}}{\overset{\tiny\text{しごと}}{\text{仕事}}}{\text{{をする}}}
+  \\
+  \left( \text{邊講電話邊工作} \right)
+  \\
+  {\overset{\tiny\text{でんわ}}{\text{電話}}}{\text{をしながら}}{\overset{\tiny\text{しごと}}{\text{仕事}}}{\text{{をすること}}}
+  \\
+  \left( \text{邊講電話邊工作這樣} \right)
+  \\
+  {\overset{\tiny\text{でんわ}}{\text{電話}}}{\text{をしながら}}{\overset{\tiny\text{しごと}}{\text{仕事}}}{\text{{をすること}}}{\text{が}}{\overset{\tiny\text{す}}{\text{好}}}{\text{きだ。}}
+  \\
+  \left( \text{喜歡邊講電話邊工作這樣} \right)
+  \\
+  {\overset{\tiny\text{かのじょ}}{\text{彼女}}}{\text{は、}}{\overset{\tiny\text{でんわ}}{\text{電話}}}{\text{をしながら}}{\overset{\tiny\text{しごと}}{\text{仕事}}}{\text{{をすること}}}{\text{が}}{\overset{\tiny\text{す}}{\text{好}}}{\text{きだ。}}
+  \\
+  \left( \text{她喜歡邊講電話邊工作這樣} \right)
+  \end{array}
+  $
+- $
+  \begin{array}{l}
+  {\overset{\tiny\text{まいにち}}{\text{毎日}}}{\overset{\tiny\text{うんどう}}{\text{運動}}}{\text{をすれば、}}{\overset{\tiny\text{や}}{\text{痩}}}{\text{せる。}}
+  \\
+  \left( \text{每日運動的話，會變瘦。} \right)
+  \end{array}
+  $
+- $
+  \begin{array}{l}
+  {\overset{\text{あさ}}{\text{朝}}}{\text{から}}{\overset{\tiny\text{ばん}}{\text{晩}}}{\text{まで}}{\overset{\tiny\text{しごと}}{\text{仕事}}}{\text{をすれば、}}{\overset{つか}{\text{疲}}}{\text{れる。}}
+  \\
+  \left( \text{從早到晚工作的話，會累。} \right)
+  \end{array}
+  $
+- $
+  \begin{array}{l}
+  {\overset{\tiny\text{あした}}{\text{明日}}}{\overset{\tiny\text{いっしょ}}{\text{一緒}}}{\text{に}}{\overset{\tiny\text{うんどう}}{\text{運動}}}{\text{をしよう。}}
+  \\
+  \left( \text{明天一起運動吧} \right)
+  \end{array}
+  $
+
+## 讀音也不同的毫無規則的漏網之魚
+- $
+{\overset{\tiny\text{く}}{\text{来}}}{\text{る}} \to
+\left[
+  \begin{array}{ccc}
+    \begin{array}{cc}
+      {\color{green}{\text{こ}}}{\text{ない}} \\
+      \left( \text{negative} \right)
+    \end{array} &
+    \begin{array}{cc}
+      {\color{green}{\text{こら}}}{\text{れる}} \\
+      \left( \text{passive} \right)
+    \end{array} &
+    \begin{array}{cc}
+      {\color{green}{\text{こさ}}}{\text{せる}} \\
+      \left( \text{causative} \right)
+    \end{array}
+    \\
+    \begin{array}{cc}
+      {\color{green}{\text{き}}}{\text{たい}} \\
+      \left( \text{desire} \right)
+    \end{array} &
+    \begin{array}{cc}
+      {\color{green}{\text{き}}}{\text{そうだ}} \\
+      \left( \text{It looks like} \right)
+    \end{array} &
+    \begin{array}{cc}
+      {\color{green}{\text{き}}}{\text{ながら}} \\
+      \left( \text{while} \right)
+    \end{array}
+    \\
+    \begin{array}{cc}
+      {\color{green}{\text{くる}}}{\text{ようだ}} \\
+      \left( \text{It seems} \right)
+    \end{array} &
+    \begin{array}{cc}
+      {\color{green}{\text{くる}}}{\text{べきだ}} \\
+      \left( \text{should} \right)
+    \end{array} &
+    \begin{array}{cc}
+      {\color{green}{\text{くる}}}{\text{こと}} \\
+      \left( \text{Things about} \right)
+    \end{array}
+    \\
+    \begin{array}{cc}
+      {\color{green}{\text{これ}}}{\text{る}} \\
+      \left( \text{potential} \right)
+    \end{array} &
+    \begin{array}{cc}
+      {\color{green}{\text{くれ}}}{\text{ば}} \\
+      \left( \text{conditional} \right)
+    \end{array} &
+    \begin{array}{cc}
+      {\color{green}{\text{こい}}}{\text{！}} \\
+      \left( \text{imperative} \right)
+    \end{array}
+    \\
+    \begin{array}{cc}
+      {\color{green}{\text{こよ}}}{\text{う}} \\
+      \left( \text{volitional} \right)
+    \end{array}
+  \end{array}
+\right]
+$
+## 困難例句
+- $
+  \begin{array}{l}
+  {\color{green}{\overset{\color{yellow}{\tiny\text{らい}}}{\text{来}}}}
+  {\overset{\tiny\text{しゅう}}{\text{週}}}{\text{、}}
+  {\text{ここに}}
+  {\color{green}{\overset{\color{yellow}{\tiny\text{こ}}}{\text{来}}}}
+  {\text{ないか？}}
+  {\color{green}{\overset{\color{yellow}{\tiny\text{き}}}{\text{来}}}}
+  {\text{たら、}}
+  {\overset{\tiny\text{いっしょ}}{\text{一緒}}}{\text{に}}
+  {\overset{\tiny\text{にほんご}}{\text{日本語}}}{\text{を}}
+  {\overset{\tiny\text{べんきょう}}{\text{勉強}}}{\text{しよう。}}
+  \\
+  \left( \text{下週何不來這裡？來的話，一起學習日語吧} \right)
+  \\
+  {\overset{\tiny\text{ごご}}{\text{午後}}}
+  {\overset{\tiny\text{さんじ}}{\text{三時}}}{\text{に}}
+  {\color{green}{\overset{\color{yellow}{\tiny\text{く}}}{\text{来}}}}
+  {\text{れば、}}
+  {\overset{\tiny\text{おい}}{\text{美味}}}
+  {\text{しい}}
+  {\text{ケーキ}}
+  {\text{が}}
+  {\overset{\tiny\text{た}}{\text{食}}}{\text{べられる。}}
+  \\
+  \left( \text{下午三點來的話，能吃到美味的蛋糕} \right)
+  \end{array}
+  $
 
 ----
 
