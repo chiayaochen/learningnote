@@ -1,5 +1,5 @@
 <style>
-    .red {color:red;}
+    strong {color:red;}
 </style>
 # Jap_Tobira_1_00
 ## h2h2h2h2h2
@@ -10,6 +10,7 @@
 - 加入粗體看看 __<ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby>__
 - 加入粗協體看看 ___<ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby>___
 - 也可以用連結來做強調 [<ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby>]()
+- 加入底線看看 <u><ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby></u>
 - Here is a simple flow chart:
 
 ```mermaid
