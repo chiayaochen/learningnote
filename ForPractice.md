@@ -1,8 +1,15 @@
+<style>
+    .red {color:red;}
+</style>
 # Jap_Tobira_1_00
 ## h2h2h2h2h2
 ### h3h3h3h3hh3hhh3
 - this is a test
 - <ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby>
+- 加入斜體看看 _<ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby>_
+- 加入粗體看看 __<ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby>__
+- 加入粗協體看看 ___<ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby>___
+- 也可以用連結來做強調 [<ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby>]()
 - Here is a simple flow chart:
 
 ```mermaid
@@ -18,3 +25,8 @@ graph TD;
 > 階層1
 > > 階層1-1
 > > > 階層1-1-1
+
+- 這裡測試字體顏色例如這樣是 $\color{red}{\text{紅色}}$
+
+<font color="#FF0000">紅色</font>
+<span style="color:red">紅色</span>
