@@ -8,6 +8,7 @@
 - 加入粗協體看看 ___<ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby>___
 - 也可以用連結來做強調 [<ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby>]()
 - 加入底線看看 <u><ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby></u>
+- 試著加入註腳，例如這個是註腳一[^1]而這個是註腳二[^2]實驗看看
 - Here is a simple flow chart:
 
 ```mermaid
@@ -28,3 +29,6 @@ graph TD;
 
 <font color="#FF0000">紅色</font>
 <span style="color:red">紅色</span>
+----
+[^1]: 註腳一的內容寫在這裡
+[^2]: 註腳二的內容寫在這裡
