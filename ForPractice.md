@@ -1,10 +1,7 @@
-<style>
-    strong {color:red;}
-</style>
 # Jap_Tobira_1_00
 ## h2h2h2h2h2
 ### h3h3h3h3hh3hhh3
-- this is a test
+- this is a t[e]()st
 - <ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby>
 - 加入斜體看看 _<ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby>_
 - 加入粗體看看 __<ruby>ＡＢＣ<rp>((</rp><rt>DEFGH</rt><rp>))</rp></ruby>__
